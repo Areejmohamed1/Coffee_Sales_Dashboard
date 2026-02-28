@@ -1,6 +1,6 @@
 # Coffee Sales Dashboard (Excel Project)
 ## Dashboard Preview
-![Coffee Sales Dashboard](Dashboard.PNG)
+![Coffee Sales Dashboard](Dashboard1.PNG)
 ## Overview
 
 This project is an interactive Coffee Sales Dashboard built using Microsoft Excel. It analyzes coffee sales data across different countries, customers, roast types, and sizes.
